@@ -4,8 +4,7 @@
 
 - 📫 How to reach me:\
 E-mail: elofssonjens@pm.me\
-Mastodon: [@cellularmoose@fosstodon.org](https://fosstodon.org/@cellularmoose)\
-Bookwyrm: [@cellularmoose@books.solarpunk.moe](https://books.solarpunk.moe/user/cellularmoose)
+Mastodon: [@cellularmoose@fosstodon.org](https://fosstodon.org/@cellularmoose)
 
 <!---
 - 👋 Hi, I’m @jenselofsson
